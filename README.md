@@ -1,4 +1,4 @@
-# c-json
+# easy-json
 This is a JSON parser written in C. It has the following features and limitations.
 
 * Ease of use is the primary goal. Performance is not a goal.
